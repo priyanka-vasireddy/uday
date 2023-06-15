@@ -1,2 +1,2 @@
 # uday
-uday repo
+uday repo for github demo
